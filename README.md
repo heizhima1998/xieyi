@@ -38,7 +38,7 @@ a) We will not submit or upload your information, so your information is absolut
 
 ![image](https://img-blog.csdnimg.cn/832b4c09ae4846d3a3eaf9b369703d50.png)
 
-美剧海报技术支持： https://github.com/heizhima1998/developer
+美剧海报技术支持： https://heizhima1998.github.io/developer/
 
 美剧海报隐私政策
 
