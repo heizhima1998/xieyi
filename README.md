@@ -2,8 +2,6 @@
 
 Movie Poster Technical Support： https://github.com/heizhima1998/developer
 
-![image](https://img-blog.csdnimg.cn/832b4c09ae4846d3a3eaf9b369703d50.png)
-
 This app respects and protects the privacy of all users who use the service. In order to provide you with more accurate and personalized services, this app will use and disclose your personal information in accordance with this Privacy Policy. However, this application will treat this information with a high degree of diligence and prudence. Except as otherwise provided in this Privacy Policy, this application will not disclose or provide this information to third parties without your prior permission. This app will update this privacy policy from time to time. By agreeing to this Application Services Use Agreement, you are deemed to have agreed to the entire content of this Privacy Policy. This Privacy Policy is an integral part of this Application Service Agreement.
 
 1. Scope of application
@@ -37,6 +35,8 @@ f) Other disclosures that this application considers appropriate in accordance w
 4. Information security
 
 a) We will not submit or upload your information, so your information is absolutely safe
+
+![image](https://img-blog.csdnimg.cn/832b4c09ae4846d3a3eaf9b369703d50.png)
 
 美剧海报技术支持： https://github.com/heizhima1998/developer
 
